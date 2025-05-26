@@ -38,5 +38,4 @@ void loop(){
       IrReceiver.resume();  
       }
 
-      delay(1000);
     }
